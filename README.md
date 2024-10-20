@@ -5,9 +5,9 @@ Version 1.0
 _Effective Date: [Insert Date]_
 
 ## Definitions
-“Licensor” refers to the individual or organization that holds the copyright for the software and grants this license.
-“Software” refers to the software program(s) and any associated documentation covered by this license.
-“Affiliation Program” refers to a program established by the Licensor that allows individuals or organizations to engage with the Licensor in a mutually beneficial manner, which may include financial compensation, contributions to the codebase, or other collaborative efforts.
+* __Licensor__ refers to the individual or organization that holds the copyright for the software and grants this license.
+* __Software__ refers to the software program(s) and any associated documentation covered by this license.
+* __Affiliation Program__ refers to a program established by the Licensor that allows individuals or organizations to engage with the Licensor in a mutually beneficial manner, which may include financial compensation, contributions to the codebase, or other collaborative efforts.
 
 ## Grant of License
 
